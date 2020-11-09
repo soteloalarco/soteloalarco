@@ -3,7 +3,7 @@
 <a href="https://dev.to/soteloalarco"><img height="30" src="https://github.com/stephenajulu/WaylonWalker/blob/main/icon/dev.png?raw=true"></a>&nbsp;&nbsp;
 </p>
 
-### Hi there 👋 My name is Rolando Sotelo
+### Hi there 👋 My name is [Rolando Sotelo](https://soteloalarco.github.io/)
 
 <p align="center">I'm a Telematics Engineer, Software Developer and Boardgames aficionado from Mexico.
 I just finished my Bsc and Im currently working on projects for my portfolio. I can't wait to start my career.
