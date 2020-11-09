@@ -8,7 +8,7 @@
 <p align="center">I'm a Telematics Engineer, Software Developer and Boardgames aficionado from Mexico.
 I just finished my Bsc and Im currently working on projects for my portfolio. I can't wait to start my career.
 I'm currently passionate about Software development, Cloud Computing and Cybersecurity.
-When I'm not developing and building things, you can find me learning new technologies and skills on blogs and books, working on my own boardgame, or reading sci-fi novels </p>
+When I'm not developing and building things, you can find me learning new technologies on blogs and books, working on my own boardgame, or reading sci-fi novels </p>
 
 - 🔭 I’m currently working on Web Applications projects for growing my portfolio.
 - 🌱 I’m currently learning about Serverless Apps, Cloud Computing and Cybersecurity.
